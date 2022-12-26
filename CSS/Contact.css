@@ -1,0 +1,37 @@
+.bey{
+
+    width: 100%;
+    height: auto;
+    border: 2 gray solid;
+    background-color: aliceblue;
+    box-shadow: 1px 6px 12px gray;
+
+}
+#infoProfil{
+    padding-left: 20%;
+    position: relative;
+}
+.Joss{
+    width: 745px;
+    height: 300px;
+    text-align: center;
+    padding-top: 2%;
+    background-color: aliceblue;
+    box-shadow: 1px 6px 9px gray;
+
+
+}
+.luc{
+    width: 710px;
+    height: 300px;
+    text-align: center;
+    padding-top: 2%;
+
+    background-color: aliceblue;
+    box-shadow: 1px 6px 9px gray;
+
+
+}
+#spaack{
+    padding-left: 10%;
+}
